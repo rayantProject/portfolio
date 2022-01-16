@@ -37,7 +37,7 @@ let projects =
 
 //     id: "Serveur Minecraft sur Raspberry Pi",
 //     begin: "09-2021",
-//     theme: "linux, Servuer WEB",
+//     type: "linux, Servuer WEB",
 //     status: "fini",
 //     description: "redirection de port sur une box pour avoir un serveur minecaft sur le raspberry PI",
 //     link: ""
@@ -45,7 +45,7 @@ let projects =
 // {
 //     id: "site meteo RT",
 //     begin: "08-2021",
-//     theme: "WEB, API",
+//     type: "WEB, API",
 //     status: "fini(version 1)",
 //     description: "un site de qui vous affiche la météo en fonctionde votre ville",
 //     link: '<a href="http://datarayan.6te.net/" class="btn btn-primary">tester</a>'
@@ -54,7 +54,7 @@ let projects =
 
 //     id: "meteo avec synthese vocal",
 //     begin: "08-2021",
-//     theme: "python, API",
+//     type: "python, API",
 //     status: "fini",
 //     description: "une meteo avec fonction vocal",
 //     link: ""
@@ -62,7 +62,7 @@ let projects =
 // {
 //     id: "Calculatrice pour Polynomes",
 //     begin: "06-2021",
-//     theme: "JavaScript, nodeJS",
+//     type: "JavaScript, nodeJS",
 //     status: "en cours",
 //     description: "calculatrice pour calculer les dérivée, les primitives ...",
 //     link: ""
@@ -71,7 +71,7 @@ let projects =
 //     id: "site WEB musical - ARIA",
 //     begin: "04-2021",
 //     status: "en cours",
-//     theme: "WEB , front-end, backend",
+//     type: "WEB , front-end, backend",
 //     description: "site web d'achat de music...",
 //     link: ""
 // }
