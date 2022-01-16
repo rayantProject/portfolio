@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Be Vietnam Pro;
+    src: url(font/Be_Vietnam_Pro/BeVietnamPro-Light.ttf);
+
+
+}
+
+body{
+    font-family: "Be Vietnam Pro";
+}
